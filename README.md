@@ -8,6 +8,13 @@ _Aspiring Cybersecurity expert| Aspiring Python Developer | _
 
 ---
 
+## Projects
+
+- **[Inspershirt Web site development](https://github.com/CMagneto/SoftwareDevelopmentExamples):** Class project  
+- **[Automotive Security Example Abstract](https://github.com/CMagneto/SoftwareDevelopmentExample2):** Class project
+
+## Summary
+
 ## Summary
 
 Learning to develop and apply AI, Machine Learning and Deep Learning technologies to various cybersecurity and other topics from classroom and online resources such as TryHackMe labs and labs found on Youtube.
