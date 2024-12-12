@@ -84,7 +84,7 @@ Learning to develop and apply AI, Machine Learning and Deep Learning technologie
 ## Projects
 
 - **[Cybersecurity Projects](https://github.com/CMagneto/CybersecurityProjects):** Cybersecurity projects Developed in class and at home.  
-- **[Software Development Projects](https://github.com/CMagneto/CybersecurityProjects):** General projects developed in class and at home.  
+- **[Software Development Projects](https://github.com/CMagneto/SoftwareDevelopmentProjects):** General projects developed in class and at home.  
 
 ---
 
